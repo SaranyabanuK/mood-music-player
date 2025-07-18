@@ -1,0 +1,47 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background: #fef6f9;
+  color: #333;
+  text-align: center;
+  padding: 20px;
+}
+
+.container {
+  max-width: 800px;
+  margin: auto;
+}
+
+#mood-buttons button {
+  margin: 8px;
+  padding: 12px 24px;
+  font-size: 16px;
+  border-radius: 20px;
+  border: none;
+  background-color: #ff79c6;
+  color: white;
+  cursor: pointer;
+  transition: background 0.3s;
+}
+
+#mood-buttons button:hover {
+  background-color: #ff4081;
+}
+
+.player {
+  margin-top: 30px;
+}
+
+#song-title {
+  font-size: 20px;
+  margin-bottom: 12px;
+}
+
+#next-btn {
+  margin-top: 20px;
+  padding: 10px 20px;
+  background: teal;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+}

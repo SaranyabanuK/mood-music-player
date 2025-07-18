@@ -1,0 +1,32 @@
+{
+  "happy": [
+    {
+      "title": "Ullaalla(Petta) - Anirudh Ravichandar",
+      "url": "https://www.youtube.com/watch?v=oLgzs8nut3A"
+    },
+    {
+      "title": "June Ponaal - Harris Jayaraj",
+      "url": "https://www.youtube.com/watch?v=wfLAmrd28uc"
+    }
+  ],
+  "sad": [
+    {
+      "title": "Poi Vaazhva - Santhosh Narayanan",
+      "url": "https://www.youtube.com/watch?v=KmxOeAaBCpY"
+    },
+    {
+      "title": "Yedho Ondru - Yuvan Shankar Rajah",
+      "url": "https://www.youtube.com/watch?v=UeYP7909Ovg"
+    }
+  ],
+  "romantic": [
+    {
+      "title": "Melliname - Manisharma",
+      "url": "https://www.youtube.com/watch?v=XleAkJSI_2o"
+    },
+    {
+      "title": "Poovaasam - Vidyasagar",
+      "url": "https://www.youtube.com/watch?v=6sL_mCO6-1Y"
+    }
+  ]
+}
