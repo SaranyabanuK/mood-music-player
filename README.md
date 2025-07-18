@@ -49,18 +49,6 @@ Open your browser and go to:
 http://localhost:3000
 You will see the Mood-Based Music Player UI with mood buttons. Click any mood to start playing songs.
 
-Project Structure
-
-mood-music-player/
-├── moods.json        # Playlist data (mood -> songs)
-├── public/           # Frontend files (HTML, CSS, JS)
-│   ├── index.html
-│   ├── style.css
-│   └── script.js
-├── server.js         # Express server code
-├── package.json
-└── package-lock.json
-
 -API Endpoints
 Method	Endpoint	Description
 GET	/api/moods	Get list of all moods
